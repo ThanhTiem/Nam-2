@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\project\năm 2\nam-2\dohoa\new\tuan 4\main.cpp(58): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\project\năm 2\nam-2\dohoa\new\tuan 4\main.cpp(65): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  tuan 4.vcxproj -> D:\PROJECT\Năm 2\Nam-2\DoHoa\New\Debug\tuan 4.exe
